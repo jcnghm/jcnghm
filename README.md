@@ -1,4 +1,4 @@
-### Hi there! 👋 Check Out My Projects! 👇
+# Hi there! 👋 Check Out My Projects! 👇
 
 Merging my background in manufacturing leadership and software development,
 I help companies create teams with people of all different backgrounds and skills, that work seamlessly together.
