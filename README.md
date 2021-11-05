@@ -7,7 +7,7 @@ I help companies create teams with people of all different backgrounds and skill
 - Agile Software Developer
 - Python Enthusiast
 
-# Skills:
+### Skills:
 - **Languages:** Python, JavaScript (ES5/ES6), TypeScript, HTML5, CSS3, Ruby
 - **Frameworks/Libraries:** React, Redux, Node.js, Flask
 - **Tools/Technologies:** NumPy, Pandas, Insomnia/Postman, JSON, Jupyter Notebook, Bootstrap5, APIs, TailwindCSS
