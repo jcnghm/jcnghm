@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 Check Out My Projects! 👇
 
-<!--
-**jcnghm/jcnghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merging my background in manufacturing leadership and software development,
+I help companies create teams with people of all different backgrounds and skills, that work seamlessly together.
 
-Here are some ideas to get you started:
+- Software Engineer @ Coding Temple
+- Agile Software Developer
+- Python Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills:
+- Languages: Python, JavaScript (ES5/ES6), TypeScript, HTML5, CSS3
+- Frameworks/Libraries: React, Redux, Node.js, Flask
+- Tools/Technologies: NumPy, Pandas, Insomnia/Postman, JSON, Jupyter Notebook, Bootstrap5, APIs, TailwindCSS
+- Databases: PostgreSQL, ElephantSQL, Google Firebase, DBeaver, MySQL, SQLite
