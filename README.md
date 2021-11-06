@@ -1,4 +1,5 @@
 # Hi there! 👋 Check Out My Projects! 👇
+🤝[LinkedIn](https://www.linkedin.com/in/joshua-cunningham-wa/)   📂[Portfolio](https://joshsportfolio.gatsbyjs.io/)
 
 Merging my background in manufacturing leadership and software development,
 I help companies create teams with people of all different backgrounds and skills, that work seamlessly together.
