@@ -1,4 +1,4 @@
-# Hi there! 👋 Check Out My Projects! 👇
+# Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Check Out My Projects! 👇
 ### Check Out My:  ⚡[Portfolio](https://joshsportfolio.gatsbyjs.io/)⚡
 <a href="https://github.com/jcnghm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jcnghm-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
