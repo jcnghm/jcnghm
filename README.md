@@ -1,12 +1,15 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Check Out My Projects! 👇
 ### Check Out My:  ⚡[Portfolio](https://joshsportfolio.gatsbyjs.io/)⚡
-<a href="https://github.com/jcnghm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jcnghm-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+
 
 
 ### Contact Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoshuaCunningham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-cunningham-wa//)](https://www.linkedin.com/in/joshua-cunningham-wa/)
 [![Gmail Badge](https://img.shields.io/badge/-jcnghmps@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcnghmps@gmail.com)](mailto:jcnghmps@gmail.com)
+<a href="https://github.com/jcnghm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jcnghm-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+
+[![codewars stats][codewars stats]][codewars url]
 
 ### **Who I am:**
 Merging my background in manufacturing leadership and software development,
@@ -44,7 +47,10 @@ I help companies create teams with people of all different backgrounds and skill
 
 ### **Technologies I'm Learning:**
 
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
-![Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rubyonrails)
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+
+[codewars stats]: https://www.codewars.com/users/jcnghm/badges/large
+[codewars url]: https://www.codewars.com/users/jcnghm
