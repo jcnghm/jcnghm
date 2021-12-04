@@ -15,7 +15,7 @@
 Merging my background in manufacturing leadership and software development,
 I help companies create teams with people of all different backgrounds and skills, that work seamlessly together.
 
-- 💻 Software Engineer @ Coding Temple
+- 💻 Software Engineer @ TipHaus
 - ⚡ Agile Software Developer
 - 🐍 Python Enthusiast
 - 📚 Always Learning
