@@ -23,11 +23,13 @@ I help companies create teams with people of all different backgrounds and skill
 ### **Technologies I Work With:**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
@@ -49,8 +51,8 @@ I help companies create teams with people of all different backgrounds and skill
 
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+
+
 
 [codewars stats]: https://www.codewars.com/users/jcnghm/badges/large
 [codewars url]: https://www.codewars.com/users/jcnghm
