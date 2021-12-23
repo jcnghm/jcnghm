@@ -30,9 +30,9 @@ I help companies create teams with people of all different backgrounds and skill
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
