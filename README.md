@@ -49,8 +49,7 @@ I help companies create teams with people of all different backgrounds and skill
 
 ### **Technologies I'm Learning:**
 
-![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 
 
