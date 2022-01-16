@@ -6,7 +6,6 @@
 ### Contact Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoshuaCunningham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-cunningham-wa//)](https://www.linkedin.com/in/joshua-cunningham-wa/)
-[![Gmail Badge](https://img.shields.io/badge/-jcnghmps@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcnghmps@gmail.com)](mailto:jcnghmps@gmail.com)
 <a href="https://github.com/jcnghm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jcnghm-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 [![codewars stats][codewars stats]][codewars url]
@@ -46,11 +45,6 @@ I help companies create teams with people of all different backgrounds and skill
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-black?style=flat-square&logo=matplotlib)
-
-### **Technologies I'm Learning:**
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-
 
 
 [codewars stats]: https://www.codewars.com/users/jcnghm/badges/large
