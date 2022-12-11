@@ -1,7 +1,5 @@
-# Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Check Out My Projects! 👇
-### Check Out My:  ⚡[Portfolio](https://joshsportfolio.gatsbyjs.io/)⚡
-
-
+# Joshua Cunningham 
+### *Software Engineer*
 
 ### Contact Me:
 
@@ -10,31 +8,19 @@
 
 [![codewars stats][codewars stats]][codewars url]
 
-### **Who I am:**
-Merging my background in manufacturing leadership and software development,
-I help companies create teams with people of all different backgrounds and skills, that work seamlessly together.
-
-- 💻 Software Engineer @ TipHaus
-- ⚡ Agile Software Developer
-- 📚 Always Learning
-
 ### **Technologies I Work With:**
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-black?style=flat-square&logo=elephantsql)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
