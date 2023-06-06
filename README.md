@@ -13,7 +13,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
@@ -31,4 +30,3 @@
 
 
 [codewars stats]: https://www.codewars.com/users/jcnghm/badges/large
-[codewars url]: https://www.codewars.com/users/jcnghm
