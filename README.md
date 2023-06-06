@@ -6,8 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JoshuaCunningham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-cunningham-wa//)](https://www.linkedin.com/in/joshua-cunningham-wa/)
 <a href="https://github.com/jcnghm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jcnghm-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
-[![codewars stats][codewars stats]][codewars url]
-
 ### **Technologies I Work With:**
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
