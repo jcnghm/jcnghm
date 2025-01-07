@@ -1,4 +1,4 @@
-# Hi there! ✨
+# jcnghm
 I'm a **Senior Software Engineer** passionate about building efficient, scalable, and impactful software solutions. My expertise lies in creating robust backend systems, sleek front-end interfaces, and deploying highly available cloud-based applications. 
 
 ## Technologies I Work With
