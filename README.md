@@ -8,16 +8,16 @@
 
 ### Frontend:
 - **JavaScript/TypeScript ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)** (React, Vue, Next.js)
-- State management and UI libraries (Redux, Zustand, Tailwind CSS)
+- State management and UI libraries (Redux, Tailwind CSS, Semantic-UI)
 
 ### Cloud & DevOps:
-- **AWS** (EC2, Lambda, S3, RDS, DynamoDB)
+- **AWS** (EC2, Lambda, S3, RDS)
 - CI/CD pipelines (GitHub Actions, Gitlab Pipelines, Docker)
 
 ### Other Skills:
 - API Development (REST, GraphQL)
-- SQL & NoSQL Databases (MySQL ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), PostgreSQL, MongoDB)
-- Testing (Jest, PHPUnit, Cypress)
+- SQL Databases (MySQL ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), PostgreSQL)
+- Testing (Jest, PHPUnit)
 
 ## What Drives Me
 - **Writing clean, maintainable code**: I take pride in crafting code that is not only functional but also easy to read, test, and extend. I strive to follow best practices, adopt design patterns, and write thorough documentation to ensure my work is accessible to collaborators and maintainable in the long term.
