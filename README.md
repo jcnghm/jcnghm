@@ -27,4 +27,4 @@
 ## Let’s Connect
 - 💼 **[![Linkedin Badge](https://img.shields.io/badge/-JoshuaCunningham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-cunningham-wa//)](https://www.linkedin.com/in/joshua-cunningham-wa/)**
 
-🚀 Always open to collaborating on exciting projects and innovative ideas! Feel free to reach out or check out my repositories below.
+🚀 Always open to collaborating on exciting projects and innovative ideas!
