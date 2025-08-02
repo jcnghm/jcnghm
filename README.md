@@ -18,7 +18,7 @@
 ### Other Skills:
 - API Development (REST, GraphQL)
 - SQL Databases (MySQL ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), PostgreSQL)
-- Testing (Jest, PHPUnit)
+- Testing (Pest, PHPUnit)
 
 ## What Drives Me
 - **Writing clean, maintainable code**: I take pride in crafting code that is not only functional but also easy to read, test, and extend. I strive to follow best practices, adopt design patterns, and write thorough documentation to ensure my work is accessible to collaborators and maintainable in the long term.
