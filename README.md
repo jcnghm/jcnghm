@@ -1,7 +1,5 @@
 # jcnghm
 
-## Technologies I Work With
-
 ### Backend:
 - **PHP ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)** (Laravel ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel))
 - **Python ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)** (Flask ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask), Django)
