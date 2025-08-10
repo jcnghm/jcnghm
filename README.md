@@ -32,7 +32,7 @@
 
 - **Clean, maintainable code**: I focus on writing code that's readable and well-structured. Good architecture and clear documentation make a real difference when working on teams and maintaining systems over time.
   
-- **Complex technical challenges**: I'm drawn to difficult problems—whether it's debugging intricate issues, optimizing performance, or designing scalable systems. The process of breaking down complex problems into manageable solutions keeps me engaged.
+- **Complex technical challenges**: I'm drawn to difficult problems, whether it's debugging intricate issues, optimizing performance, or designing scalable systems. The process of breaking down complex problems into manageable solutions keeps me engaged.
   
 - **Learning and knowledge sharing**: I stay current with new technologies and methodologies, and I find it rewarding to share what I learn through mentoring and contributing to the broader developer community.
   
