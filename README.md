@@ -19,6 +19,7 @@
 - API Development (REST, GraphQL)
 - SQL Databases (MySQL ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), PostgreSQL)
 - Testing/TDD (Pest, PHPUnit)
+- WSL2 Ubuntu | Docker containerized development
 
 ### Leadership & Collaboration:
 - Team mentoring and code reviews
