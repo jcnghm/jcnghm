@@ -36,6 +36,6 @@
 - **Learning and knowledge sharing**: I stay current with new technologies and methodologies, and I find it rewarding to share what I learn through mentoring and contributing to the broader developer community.
   
 ## Let's Connect
-💬 Ask me about backend architecture, team leadership, or PHP/Laravel ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel) best practices
-📫 Open to discussing new opportunities and technical challenges
-🚢 Always open to collaborating on exciting projects and innovative ideas!
+- 💬 Ask me about backend architecture, team leadership, or PHP/Laravel ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel) best practices
+- 📫 Open to discussing new opportunities and technical challenges
+- 🚢 Always open to collaborating on exciting projects and innovative ideas!
