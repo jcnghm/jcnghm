@@ -23,8 +23,8 @@
 - WSL2 Ubuntu | Docker containerized development
 
 ### Leadership & Collaboration:
-- Team mentoring and code reviews
-- Technical architecture planning and decision-making
+- Team mentoring, technical 1:1s, code reviews
+- Architecture planning and decision-making
 - Cross-functional collaboration with product and design teams
 - Agile/Scrum methodologies, Jira
 
