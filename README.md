@@ -14,7 +14,7 @@
 ### Cloud & DevOps:
 - **AWS** (EC2, Lambda, S3, RDS)
 - CI/CD pipelines (GitHub Actions, Gitlab Pipelines, Docker)
-- **Azure** (S3 buckets)
+- **Azure** Blob Storage
 
 ### Other Technical Skills:
 - API Development (REST, GraphQL)
