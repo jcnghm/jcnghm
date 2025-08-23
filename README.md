@@ -34,7 +34,7 @@
   
 - **Complex technical challenges**: I'm drawn to difficult problems, whether it's debugging complicated issues, optimizing performance, or designing scalable systems. The process of breaking down complex problems into manageable solutions keeps me engaged.
   
-- **Learning and knowledge sharing**: I stay current with new technologies and methodologies, and I find it rewarding to share what I learn through mentoring and contributing to the broader developer community.
+- **Learning and knowledge sharing**: I stay current with new technologies and methodologies, and I find it rewarding to share what I learn with others.
   
 ## Let's Connect
 - 💬 Ask me about backend architecture, team leadership, or PHP/Laravel best practices
