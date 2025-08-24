@@ -30,7 +30,7 @@
 
 ## What Drives Me
 
-- **Maintainable code**: I focus on writing code that's readable and well-structured. Good architecture and clear documentation make a real difference when working on teams and maintaining systems over time.
+- **Maintainable code**: I focus on writing code that's readable and well-structured. Good architecture and clear documentation make a difference when working on teams and maintaining systems over time.
   
 - **Complex technical challenges**: I'm drawn to difficult problems, whether it's debugging complicated issues, optimizing performance, or designing scalable systems. The process of breaking down complex problems into manageable solutions keeps me engaged.
   
