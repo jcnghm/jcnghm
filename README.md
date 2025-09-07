@@ -5,7 +5,7 @@
 ### Backend:
 - **PHP ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)** (Laravel ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel))
 - **Python ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)** (Flask ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask))
-- **Rust** [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) (Actix Web)
+- **Rust** [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](#) (Actix Web[![Actix Web](https://img.shields.io/badge/Actix%20Web-%23000000.svg?logo=actix&logoColor=white)](#))
 
 ### Frontend:
 - **JavaScript/TypeScript ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)** (React, Vue)
