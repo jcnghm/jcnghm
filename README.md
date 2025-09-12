@@ -37,6 +37,6 @@
 - **Learning and knowledge sharing**: I stay current with new technologies, I find it rewarding to share what I learn with others.
   
 ## Let's Connect
-- 💬 Ask me about backend architecture, team leadership, or PHP/Laravel best practices
-- 📫 Open to discussing new opportunities and technical challenges
-- 🚢 Always open to collaborating on exciting projects and innovative ideas!
+- Ask me about backend architecture, team leadership, or PHP/Laravel best practices
+- Open to discussing new opportunities and technical challenges
+- Always open to collaborating on exciting projects and innovative ideas!
