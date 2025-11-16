@@ -18,12 +18,12 @@
 ![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white)
 
 ### Development Environments/Tools
-- Personal Dedicated Dev Machine: **Arch/Hyprland**
+- **Personal Dedicated Dev Machine:** Arch/Hyprland
     - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
 
-- Current Work Setup: **Windows** **WSL2 w/Ubuntu** | Docker containerized development
+- **Current Work Setup:** Windows WSL2 w/Ubuntu | Docker containerized development
     - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![WSL2](https://img.shields.io/badge/-WSL2-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
