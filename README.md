@@ -62,4 +62,4 @@
 - Ask me about backend architecture, team leadership, or PHP/Laravel best practices
 - Open to discussing new opportunities and technical challenges
 - Always open to collaborating on exciting projects and innovative ideas!
-- [Send me a message](jcnghmps@gmail.com)
+- [Send me a message](mailto:jcnghmps@gmail.com)
