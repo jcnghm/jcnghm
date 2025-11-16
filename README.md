@@ -7,7 +7,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/-Actix%20Web-000000?style=flat-square&logo=rust&logoColor=white)
 
 
@@ -31,8 +31,8 @@
 
 ### Cloud & DevOps:
 - ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon&logoColor=white) (EC2, S3, RDS)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) (pipelines, actions, issues, merge/pull requests)
+- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) (pipelines, actions, issues, merge/pull requests)
 - ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) (blob storage)
 
 ### Other Technical Skills:
@@ -48,7 +48,7 @@
 - Team mentoring, technical 1:1s, code reviews
 - Architecture planning and decision-making
 - Cross-functional collaboration with product and design teams
-- Agile/Scrum methodologies, Jira
+- Jira Agile/Scrum methodologies
 
 ## What Drives Me
 
@@ -62,3 +62,4 @@
 - Ask me about backend architecture, team leadership, or PHP/Laravel best practices
 - Open to discussing new opportunities and technical challenges
 - Always open to collaborating on exciting projects and innovative ideas!
+- [Send me a message](jcnghmps@gmail.com)
