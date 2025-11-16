@@ -4,7 +4,7 @@
 ## Tech Stack
 ### Backend:
 - **PHP ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)** (Laravel ![PHP](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel))
-- **Rust** [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](#) (Actix Web[![Actix Web](https://img.shields.io/badge/Actix%20Web-%23000000.svg?logo=actix&logoColor=white)](#), Axum[![Axum](https://img.shields.io/badge/Axum-%23000000.svg?logo=tokio&logoColor=white)](#))
+- **Rust** [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](#) (Actix Web[![Actix Web](https://img.shields.io/badge/Actix%20Web-%23000000.svg?logo=actix&logoColor=white)](#))
 - **Python ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)** (Flask ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask))
 
 
