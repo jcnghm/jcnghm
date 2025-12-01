@@ -18,7 +18,7 @@
 ![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white)
 
 ### Development Environments/Tools
-- **Personal Dev Machine:** Arch/Hyprland
+- **Personal Machine:** Arch/Hyprland
     - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
